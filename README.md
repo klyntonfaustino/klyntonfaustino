@@ -1,15 +1,87 @@
-# 👋 Olá! Eu sou Klynton Faustino
-Desenvolvedor Back-end apaixonado por criar soluções inovadoras e eficientes.
+# Klynton Faustino
 
----
-### 🌐 Conecte-se Comigo:
-<div align="center">
-  <a href="mailto:klynton19@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/klynton-faustino-a120661a3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
-
----
+**``Back-end Develop ``**
+<div>
+    <img 
+        align="left"
+        alt="Linux"
+        title="Linux"
+        width="30px"
+        style="padding-right:10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+    />      
+    <img 
+        align="left"
+        alt="VSCode"
+        title="VSCode"
+        width="30px"
+        style="padding-right:10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+    />     
+    <img 
+        align="left"
+        alt="Python"
+        title="Python"
+        width="40px"
+        style="padding-right:10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
+    />
+    <img 
+        align="left"
+        alt="PHP"
+        title="PHP"
+        width="40px"
+        style="padding-right:10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    />
+    <img 
+        align="left"
+        alt="Flutter"
+        title="Flutter"
+        width="30px"
+        style="padding-right:10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
+    />
+        <img
+        align="left"
+        alt="Laravel"
+        title="Laravel"
+        width="30px"
+        style="padding-right:10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+    />
+    <img
+        align="left"
+        alt="Git"
+        title="Git"
+        width="30px"
+        style="padding-right:10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"                 
+    />
+    <img
+        align="left"
+        alt="GitHub"
+        title="GitHub"
+        width="40px"
+        style="padding-right:10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" 
+    />
+    <img 
+        align="left"
+        alt="Docker"
+        title="Docker"
+        width="40px"
+        style="padding-right:10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
+    />
+    <img
+        align="left"
+        alt="MySQL"
+        title="MySQL"
+        width="50px"
+        style="padding-right:10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+    />
+</div>         
+          
+          
