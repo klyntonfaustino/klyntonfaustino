@@ -1,4 +1,7 @@
-### I'm Klynton Faustino 🚀
+# 👋 Olá! Eu sou Klynton Faustino
+Desenvolvedor Full-Stack apaixonado por criar soluções inovadoras e eficientes.
+
+---
 
 ## 📊 Minhas Estatísticas no GitHub
 <div align="center">
@@ -7,10 +10,17 @@
   </a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klyntonfaustino&layout=compact&theme=dark" />
 </div>
-  
-##  
 
-<div>
-  <a href = "mailto:klynton19@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a>
-  <a href="https://www.linkedin.com/in/klynton-faustino-a120661a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+---
+
+### 🌐 Conecte-se Comigo:
+<div align="center">
+  <a href="mailto:klynton19@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/klynton-faustino-a120661a3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  </div>
+
+---
