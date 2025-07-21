@@ -6,7 +6,7 @@
         align="left"
         alt="Linux"
         title="Linux"
-        width="30px"
+        width="40px"
         style="padding-right:10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
     />      
@@ -14,7 +14,7 @@
         align="left"
         alt="VSCode"
         title="VSCode"
-        width="30px"
+        width="40px"
         style="padding-right:10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
     />     
@@ -38,7 +38,7 @@
         align="left"
         alt="Flutter"
         title="Flutter"
-        width="30px"
+        width="40px"
         style="padding-right:10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
     />
@@ -46,7 +46,7 @@
         align="left"
         alt="Laravel"
         title="Laravel"
-        width="30px"
+        width="40px"
         style="padding-right:10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
     />
@@ -54,7 +54,7 @@
         align="left"
         alt="Git"
         title="Git"
-        width="30px"
+        width="40px"
         style="padding-right:10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"                 
     />
@@ -78,7 +78,7 @@
         align="left"
         alt="MySQL"
         title="MySQL"
-        width="50px"
+        width="40px"
         style="padding-right:10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
     />
