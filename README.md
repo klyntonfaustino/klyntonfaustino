@@ -6,7 +6,7 @@ Desenvolvedor Back-end apaixonado por criar soluções inovadoras e eficientes.
 ## 📊 Minhas Estatísticas no GitHub
 <div align="center">
   <a href="https://github.com/klyntonfaustino">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/username=klyntonfaustino&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Klynton Faustino - GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=klyntonfaustino&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Klynton Faustino - GitHub Stats"/>
   </a>
 </div>
 
