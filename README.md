@@ -21,6 +21,6 @@ Desenvolvedor Full-Stack apaixonado por criar soluções inovadoras e eficientes
   <a href="https://www.linkedin.com/in/klynton-faustino-a120661a3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  </div>
+</div>
 
 ---
