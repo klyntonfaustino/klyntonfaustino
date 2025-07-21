@@ -1,5 +1,5 @@
 # 👋 Olá! Eu sou Klynton Faustino
-Desenvolvedor Full-Stack apaixonado por criar soluções inovadoras e eficientes.
+Desenvolvedor Back-end apaixonado por criar soluções inovadoras e eficientes.
 
 ---
 
