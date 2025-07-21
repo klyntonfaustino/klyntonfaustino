@@ -1,12 +1,14 @@
 # Klynton Faustino
 
-**``Back-end Develop ``**
+**``Back-end Develop ``**<br/>
+### Olá! Sou Klynton, um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Minha especialidade é o Back-end, onde busco sempre as melhores práticas para construir sistemas robustos e escaláveis.
+
 <div>
     <img 
         align="left"
         alt="Linux"
         title="Linux"
-        width="40px"
+        width="30px"
         style="padding-right:10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
     />      
@@ -14,7 +16,7 @@
         align="left"
         alt="VSCode"
         title="VSCode"
-        width="40px"
+        width="30px"
         style="padding-right:10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
     />     
@@ -38,7 +40,7 @@
         align="left"
         alt="Flutter"
         title="Flutter"
-        width="40px"
+        width="30px"
         style="padding-right:10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
     />
@@ -46,7 +48,7 @@
         align="left"
         alt="Laravel"
         title="Laravel"
-        width="40px"
+        width="30px"
         style="padding-right:10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
     />
@@ -54,7 +56,7 @@
         align="left"
         alt="Git"
         title="Git"
-        width="40px"
+        width="30px"
         style="padding-right:10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"                 
     />
@@ -78,10 +80,29 @@
         align="left"
         alt="MySQL"
         title="MySQL"
-        width="40px"
+        width="50px"
         style="padding-right:10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
     />
-</div>         
-          
-          
+</div>
+
+<br/>
+<br/> 
+
+### Estatísticas do GitHub
+
+<img
+    align="left"
+    alt="GitHub Stats"
+    height="200px"
+    style="padding-right:10px;"
+    src="https://github-readme-stats.vercel.app/api?username=klyntonfaustino&show_icons=true&theme=highcontrast&locale=pt-br"
+/>  
+
+<img
+    align="left"
+    alt="GitHub Stats"
+    height="200px"
+    style="padding-right:10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=klyntonfaustino&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=10"
+/>           
