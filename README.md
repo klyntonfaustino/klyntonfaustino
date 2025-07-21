@@ -1,13 +1,8 @@
 # 👋 Olá! Eu sou Klynton Faustino
 Desenvolvedor Back-end apaixonado por criar soluções inovadoras e eficientes.
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{klyntonfaustino}/count.svg" />
-</p>
-
 ---
 
-## 📊 Minhas Estatísticas no GitHub
+### 📊 Minhas Estatísticas no GitHub
 <div align="center">
   <a href="https://github.com/klyntonfaustino">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/username=klyntonfaustino&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
@@ -37,19 +32,4 @@ Desenvolvedor Back-end apaixonado por criar soluções inovadoras e eficientes.
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
----
-
-## 🚀 Meus Projetos Principais
----
-
-## 💡 O que estou aprendendo
----
-
-## 🤝 Contribuição
----
-
-## 📄 Licença
----
-
-## 📧 Contato
 ---
