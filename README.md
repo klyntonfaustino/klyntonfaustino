@@ -1,6 +1,10 @@
 # 👋 Olá! Eu sou Klynton Faustino
 Desenvolvedor Back-end apaixonado por criar soluções inovadoras e eficientes.
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{klyntonfaustino}/count.svg" />
+</p>
+
 ---
 
 ## 📊 Minhas Estatísticas no GitHub
@@ -8,7 +12,7 @@ Desenvolvedor Back-end apaixonado por criar soluções inovadoras e eficientes.
   <a href="https://github.com/klyntonfaustino">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/username=klyntonfaustino&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   </a><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klyntonfaustino&layout=compact&theme=dark" />
-  </div>
+</div>
 
 ---
 
@@ -22,4 +26,31 @@ Desenvolvedor Back-end apaixonado por criar soluções inovadoras e eficientes.
   </a>
 </div>
 
+---
+
+## 💻 Tecnologias que Utilizo
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</div>
+
+---
+
+## 🚀 Meus Projetos Principais
+---
+
+## 💡 O que estou aprendendo
+---
+
+## 🤝 Contribuição
+---
+
+## 📄 Licença
+---
+
+## 📧 Contato
 ---
